@@ -16,10 +16,10 @@ Esta é uma API que segue o padrão Rest, portanto utilizaremos os *verbos* do p
 
 ## End points
 
-POST /todos: Grava uma tarefa
-GET /todos: Lista todas as tarefas contidas
-PATCH /todo/{id}: Atualiza tarefa
-DELETE /todo/{id}: Apaga tarefa por id
+* POST /todos: Grava uma tarefa
+* GET /todos: Lista todas as tarefas contidas
+* GET /todos/{id} Lista uma tarefa específica
+* DELETE /todo/{id}: Apaga tarefa por id
 
 Todas as entradas e saídas de dados são no formato JSON.
 
