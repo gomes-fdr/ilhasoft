@@ -2,7 +2,7 @@
 
 Esta API foi desenvolvida como prova de conceito para empresa IlhaSoft.
 
-**Atenção:** Está implementado em um repo PRIVADO do github, para evitar plágio.
+~~**Atenção:** Está implementado em um repo PRIVADO do github, para evitar plágio.~~
 
 ## Sobre a API
 
